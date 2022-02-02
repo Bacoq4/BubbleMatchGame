@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8678296596315025500
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -2368970896510031888, guid: 908f30053a9b3e6428df05a8d08ebad2, type: 3}
+      propertyPath: spritesRed.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2368970896510031888, guid: 908f30053a9b3e6428df05a8d08ebad2, type: 3}
+      propertyPath: spritesBlue.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: -2368970896510031888, guid: 908f30053a9b3e6428df05a8d08ebad2, type: 3}
+      propertyPath: spritesPink.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2368970896510031888, guid: 908f30053a9b3e6428df05a8d08ebad2, type: 3}
+      propertyPath: spritesGreen.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2368970896510031888, guid: 908f30053a9b3e6428df05a8d08ebad2, type: 3}
+      propertyPath: spritesPurple.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2368970896510031888, guid: 908f30053a9b3e6428df05a8d08ebad2, type: 3}
+      propertyPath: spritesYellow.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2368970896510031888, guid: 908f30053a9b3e6428df05a8d08ebad2, type: 3}
+      propertyPath: spritesBlue.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: -2368970896510031888, guid: 908f30053a9b3e6428df05a8d08ebad2, type: 3}
+      propertyPath: spritesBlue.Array.data[1]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: -2368970896510031888, guid: 908f30053a9b3e6428df05a8d08ebad2, type: 3}
+      propertyPath: spritesBlue.Array.data[2]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: -2368970896510031888, guid: 908f30053a9b3e6428df05a8d08ebad2, type: 3}
+      propertyPath: spritesBlue.Array.data[3]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 458617558455888048, guid: 908f30053a9b3e6428df05a8d08ebad2, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 458617558455888048, guid: 908f30053a9b3e6428df05a8d08ebad2, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 27293034cd7279b46861c5d69486f483, type: 2}
+    - target: {fileID: 458617558455888050, guid: 908f30053a9b3e6428df05a8d08ebad2, type: 3}
+      propertyPath: m_Name
+      value: BubbleBluePrefab
+      objectReference: {fileID: 0}
+    - target: {fileID: 458617558455888054, guid: 908f30053a9b3e6428df05a8d08ebad2, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 458617558455888054, guid: 908f30053a9b3e6428df05a8d08ebad2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 458617558455888054, guid: 908f30053a9b3e6428df05a8d08ebad2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.54
+      objectReference: {fileID: 0}
+    - target: {fileID: 458617558455888054, guid: 908f30053a9b3e6428df05a8d08ebad2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 458617558455888054, guid: 908f30053a9b3e6428df05a8d08ebad2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 458617558455888054, guid: 908f30053a9b3e6428df05a8d08ebad2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 458617558455888054, guid: 908f30053a9b3e6428df05a8d08ebad2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 458617558455888054, guid: 908f30053a9b3e6428df05a8d08ebad2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 458617558455888054, guid: 908f30053a9b3e6428df05a8d08ebad2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 458617558455888054, guid: 908f30053a9b3e6428df05a8d08ebad2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 458617558455888054, guid: 908f30053a9b3e6428df05a8d08ebad2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6590369234817083727, guid: 908f30053a9b3e6428df05a8d08ebad2, type: 3}
+      propertyPath: Color
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6590369234817083727, guid: 908f30053a9b3e6428df05a8d08ebad2, type: 3}
+      propertyPath: color
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6590369234817083727, guid: 908f30053a9b3e6428df05a8d08ebad2, type: 3}
+      propertyPath: bubbleColor
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 6393415827723949586, guid: 908f30053a9b3e6428df05a8d08ebad2, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 908f30053a9b3e6428df05a8d08ebad2, type: 3}
