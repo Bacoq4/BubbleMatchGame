@@ -5,7 +5,7 @@ using UnityEngine;
 public class Bubble : MonoBehaviour
 {
     public BubbleColors bubbleColor;
-
+    // bubble mechanic
     public bool isTraversed = false;
 
     public Bubble RightBubble;
